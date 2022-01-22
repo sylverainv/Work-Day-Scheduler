@@ -1,5 +1,6 @@
 # Work-Day-Scheduler
 
+https://sylverainv.github.io/Work-Day-Scheduler/
 
 
 ## User Story
@@ -27,4 +28,5 @@ THEN the text for that event is saved in local storage
 WHEN I refresh the page
 THEN the saved events persist
 ```
+<img width="1438" alt="Screen Shot of work day schedular" src="https://user-images.githubusercontent.com/85650009/150646245-c982e084-5959-4165-8b32-86a9e55ad374.png">
 
